@@ -35,7 +35,7 @@ import (
 	"golang.org/x/exp/slices"
 )
 
-var InterfaceName = "Meta7"
+var InterfaceName = "Meta8"
 var EnforceBindInterface = false
 
 type Listener struct {
